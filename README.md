@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/1254-number-of-closed-islands) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [3310-remove-methods-from-project](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -24,11 +25,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/1254-number-of-closed-islands) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [3310-remove-methods-from-project](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/0547-number-of-provinces) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [3310-remove-methods-from-project](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
@@ -39,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/1254-number-of-closed-islands) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Array
 |  |
 | ------- |
