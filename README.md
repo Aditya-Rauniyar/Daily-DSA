@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/1254-number-of-closed-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/1971-find-if-path-exists-in-graph) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/1254-number-of-closed-islands) |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [3310-remove-methods-from-project](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
@@ -40,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/0695-max-area-of-island) |
+| [0785-is-graph-bipartite](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/1254-number-of-closed-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/1971-find-if-path-exists-in-graph) |
@@ -91,4 +95,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/1140-stone-game-ii) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
