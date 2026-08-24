@@ -73,10 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/0062-unique-paths) |
 | [1140-stone-game-ii](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/1140-stone-game-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/0062-unique-paths) |
 | [0542-01-matrix](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/0542-01-matrix) |
 | [1140-stone-game-ii](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/1140-stone-game-ii) |
 ## Minimax
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/0785-is-graph-bipartite) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
