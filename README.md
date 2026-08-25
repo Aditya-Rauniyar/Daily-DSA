@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/1020-number-of-enclaves) |
 | [1140-stone-game-ii](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/1254-number-of-closed-islands) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Matrix
 |  |
 | ------- |
@@ -109,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/0062-unique-paths) |
+## Hash Table
+|  |
+| ------- |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 <!---LeetCode Topics End-->
