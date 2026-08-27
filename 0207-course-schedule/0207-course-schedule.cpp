@@ -1,5 +1,11 @@
 class Solution {
 public:
+
+    // if thier is cycle means task can't be complete ==>false;
+    // if thier is not any cycle means we can schedule ==>true;
+    // now for detecting cycle in directed graph two methods,, use dfs(vis,pathVis) or bfs(topo sort)
+
+
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
         int V=numCourses;
         unordered_map<int,vector<int>>mp;
