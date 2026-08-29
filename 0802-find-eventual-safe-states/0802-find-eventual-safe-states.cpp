@@ -1,6 +1,8 @@
 class Solution {
 public:
 
+    // can also be done by reverseing the graph and applying kanhs algo, and the nodes that are poped up from queue are the safe ndoes
+
     bool dfs(int i,vector<vector<int>>& graph,vector<int>&vis,
         vector<int>&pathVis,
         vector<int>&check)
