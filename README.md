@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/1020-number-of-enclaves) |
 | [1140-stone-game-ii](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/1254-number-of-closed-islands) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -204,4 +205,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/2333-minimum-sum-of-squared-difference) |
+## Binary Search
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/2333-minimum-sum-of-squared-difference) |
+## Sorting
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/2333-minimum-sum-of-squared-difference) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
