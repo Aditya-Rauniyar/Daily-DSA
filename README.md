@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/1254-number-of-closed-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [3310-remove-methods-from-project](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/3310-remove-methods-from-project) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1971-find-if-path-exists-in-graph](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [3310-remove-methods-from-project](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/1971-find-if-path-exists-in-graph) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Array
 |  |
 | ------- |
@@ -80,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -98,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/1254-number-of-closed-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Math
 |  |
 | ------- |
