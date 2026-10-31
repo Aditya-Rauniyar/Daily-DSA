@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/3665-twisted-mirror-path-count) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/1254-number-of-closed-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/3665-twisted-mirror-path-count) |
 ## Math
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/0678-valid-parenthesis-string) |
 | [1140-stone-game-ii](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/1140-stone-game-ii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3665-twisted-mirror-path-count](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/3665-twisted-mirror-path-count) |
 ## Minimax
 |  |
 | ------- |
