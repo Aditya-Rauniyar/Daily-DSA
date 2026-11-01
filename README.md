@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/0200-number-of-islands) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0542-01-matrix](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/0733-flood-fill) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/0062-unique-paths) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1140-stone-game-ii](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/1140-stone-game-ii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/2409-count-days-spent-together) |
