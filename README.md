@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/0200-number-of-islands) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0062-unique-paths](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/0062-unique-paths) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0542-01-matrix](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/0678-valid-parenthesis-string) |
 | [1140-stone-game-ii](https://github.com/Aditya-Rauniyar/Daily-DSA/tree/master/1140-stone-game-ii) |
